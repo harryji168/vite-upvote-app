@@ -1,4 +1,4 @@
-#Demo: https://luxury-cendol-cb1593.netlify.app/
+#Demo Site: https://luxury-cendol-cb1593.netlify.app/
 
 ![upvote](https://user-images.githubusercontent.com/21187699/160039708-9d3367e4-3d08-40a3-bf62-a06e8634a7f9.gif)
 
